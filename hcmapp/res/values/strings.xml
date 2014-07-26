@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">hcmapp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Aqui van los mapas de google</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_inicio">InicioActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_diccionario">DiccionarioActivity</string>
+    <string name="Diccionario">Diccionario</string>
+    <string name="Contacto">Contacto</string>
+    <string name="hello_world2">Aqui van las categorias del diccionario</string>
+    <string name="title_activity_categorias">CategoriasActivity</string>
+    <string name="title_activity_direcciones">DireccionesActivity</string>
+    <string name="title_activity_lugar">LugarActivity</string>
+    <string name="title_activity_palabras">PalabrasActivity</string>
+
+</resources>
